@@ -25,4 +25,6 @@ Warning - each activation of the COM port on the computer resets the microcontro
 
 Schematic, layout, user manual and source code are available for free. Commercial use of this software, and associated documentation is not allowed without written permission from Miroslaw Sadowski SP5GNI.
 
-Find more at https://www.qrz.com/db/SP5GNI
+Find the schematic "ENG-SP5GNI-r3 rotator controller schematic.pdf" and User Manual "ENG-SP5GNI-r3 rotator controller manual.pdf" at https://vot.pzk.org.pl/pliki/category/19-osprzet-stacji 
+
+Look also at https://www.qrz.com/db/SP5GNI
