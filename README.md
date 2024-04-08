@@ -27,4 +27,4 @@ Schematic, layout, user manual and source code are available for free. Commercia
 
 Find the schematic "ENG-SP5GNI-r3 rotator controller schematic.pdf" and User Manual "ENG-SP5GNI-r3 rotator controller manual.pdf" at https://vot.pzk.org.pl/pliki/category/19-osprzet-stacji 
 
-Look also at https://www.qrz.com/db/SP5GNI
+Look also at https://hf5l.pl/en/gni-r3-antenna-rotor-controller/ and https://www.qrz.com/db/SP5GNI
